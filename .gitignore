@@ -6,7 +6,11 @@ bundles/io/org.openhab.io.multimedia.tts.marytts/lib/
 .antlr*
 .metadata/
 */plugin.xml_gen
-
 distribution/openhabhome/logs/*.log
 distribution/openhabhome/*.zip
 distribution/openhabhome/etc/rrd4j/*.rrd
+*.iml
+.idea/
+distribution/openhabhome/etc/db4o/
+distribution/openhabhome/logs/
+distribution/openhabhome/webapps/static/
