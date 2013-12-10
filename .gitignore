@@ -14,3 +14,11 @@ distribution/openhabhome/etc/rrd4j/*.rrd
 distribution/openhabhome/etc/db4o/
 distribution/openhabhome/logs/
 distribution/openhabhome/webapps/static/
+
+*.iws
+
+*.ipr
+
+bundles/core/org.openhab.core.test/webapps/static/uuid
+
+bundles/core/org.openhab.core.test/webapps/static/version
